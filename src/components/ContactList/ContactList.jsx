@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { Table } from './Component.styled';
+import { Table } from './ContactList.styled';
 
 export const ContactsList = ({ contactList, deleteContact }) => {
   return (

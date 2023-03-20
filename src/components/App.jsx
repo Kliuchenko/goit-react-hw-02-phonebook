@@ -1,7 +1,7 @@
 import { Component } from 'react';
-import { Section } from './Section';
-import { ContactForm } from './ContactForm ';
-import { ContactsList } from './ContactList';
+import { Section } from './Section/Section';
+import { ContactForm } from './ContactForm/ContactForm';
+import { ContactsList } from './ContactList/ContactList';
 import { Filter } from './Filter';
 import { nanoid } from 'nanoid';
 import { Report } from 'notiflix/build/notiflix-report-aio';

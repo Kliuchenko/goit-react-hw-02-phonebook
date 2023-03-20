@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import PropTypes from 'prop-types';
-import { Form } from './Component.styled';
+import { Form } from './ContactForm.styled';
 
 export class ContactForm extends Component {
   state = {
